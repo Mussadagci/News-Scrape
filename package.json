@@ -1,13 +1,13 @@
 {
   "name": "news-scrape",
   "version": "1.0.0",
-  "description": "",
+  "description": "https://github.com/Mussadagci/News-Scrape",
   "main": "server.js",
   "dependencies": {
     "axios": "^0.19.0",
     "cheerio": "^1.0.0-rc.3",
-    "express": "^4.17.1",
     "express-handlebars": "^3.1.0",
+    "express": "^4.17.1",
     "model": "^6.0.1",
     "module": "^1.2.5",
     "mongoose": "^5.7.5",
@@ -19,6 +19,17 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "Musa Bagci",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mussadagci/News-Scrape.git"
+  },
+  "keywords": [
+    "https://github.com/Mussadagci/News-Scrape"
+  ],
+  "author": "https://github.com/Mussadagci/News-Scrape",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mussadagci/News-Scrape/issues"
+  },
+  "homepage": "https://github.com/Mussadagci/News-Scrape#readme"
 }
